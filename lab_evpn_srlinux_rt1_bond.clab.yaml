@@ -1,5 +1,5 @@
 # topology documentation: https://learn.srlinux.dev/tutorials/programmability/event-handler/oper-group/oper-group-cfg/
-name: opergroup
+name: lab_evpn_srlinux_rt1_bond
 prefix: ""
 
 topology:
