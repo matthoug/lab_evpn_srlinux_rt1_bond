@@ -22,5 +22,4 @@ The goal is to keep the setup simple and based on standard protocols.
 ```bash
 sudo containerlab deploy 
 ```
-
-
+You can then ssh to leafs or spine doing <ssh leaf1> for example, password is NokiaSrl1!
