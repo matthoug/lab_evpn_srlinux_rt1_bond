@@ -6,7 +6,18 @@ Small [Containerlab](https://containerlab.dev/) lab using **Nokia SR Linux** and
 ![Topology](graph.png)
 
 
+## Route type
+
+
 ![Evpn table](table.png)
+
+Route type 1 will be used by other peers to know about the ESI, but also for these features
+
+ - MAC Mass-Withdrawal
+ - Split-Horizon
+ - Aliasing (load balancing)
+
+Route type 4 is Ethernet Segment  route used for the DF election so when a leaf within a pair of leaf receives a BUM packet it will drop the packet
 
 
 ## Goal
