@@ -1,6 +1,7 @@
 # EVPN Multihoming Lab (SRLinux & FRR)
 
 ![Topology](graph.png)
+![Evpn table](table.png)
 
 Small [Containerlab](https://containerlab.dev/) lab using **Nokia SR Linux** and **FRR** to test EVPN L2VPN **Route Type 1** and **multihoming**.
 
